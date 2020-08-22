@@ -1,0 +1,30 @@
+Tableau and PowerBI
+Data Warehouse such as Hadoop, Oracle and SQL
+write code in R, Python or an equivalent
+At least 4 years' experience in Machine learning, Python, Big Data
+60%) Modelling and Statistics
+Our current team has 50 people from top institutes across the country like IITs, IIITs, NITs with experience in Big Data, Software Architecture, ML, AI, 
+Robotics, Blockchain. Our founding team has CS/Elec folks from IIT Delhi and IIT Madras.
+
+Senior Data ScientistJob Brief:We are looking for a Data Scientist to join Surveysensum team and completely take care of Text Analytics on Qualitative Customer 
+Feedback and Call Center complaints conversations via Email or Chat. Surveysensum is an AI-Enabled Customer Experience brands to decode customers feedback into 
+actionable insightsResponsibilities:? Build cutting edge models using NLP, ML and AI Techniques for a variety of problems in a variety of domains.? 
+Work with engineering team to deploy models in production & validate the models.Skills:? Expert level knowledge in Natural Language Processing, Information 
+Extraction, Scrapping and Text Mining Algorithms, Tech Stacks.? Strong familiarity with deep learning methods for text analytics.? Expert level knowledge in Machine 
+Learning algorithms (XGBoost, Linear and Logistic Regression, SVM, Random Forest, Bayesian Methods, Unsupervised Learning, Reinforcement Learning) is a must.? 
+Familiarity and experience of working on time series analysis on real world datasets.? Familiarity with flask, fastapi, hug.? Must be an expert python programmer.? 
+Demonstrated expertise via high quality publications and/or competitions/challenges.? Ability to easily work with domain experts and passion to make a difference.
+
+Experience with relational databases and SQL
+Experience with NoSQL solutions like MongoDB, Elastic Search, and RabbitMQ
+
+echnologies you'll use
+
+Python 3.7
+RabbitMQ
+Pipenv and Git
+PostgreSQL, MongoDB
+AWS, Docker, Kubernetes, Travis CI
+ML/AI frameworks like TensorFlow, H20, etc
+
+Have a history of building systems that capture and utilize large data sets in order to quantify performance via metrics or KPIs.
